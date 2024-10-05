@@ -32,4 +32,4 @@ Welcome to **Worldtrk**! This is a travel guide website that helps users discove
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/altab01/Homespace.git
+   git clone https://github.com/altab01/worldtrk.git
